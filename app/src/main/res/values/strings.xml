@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="enterRecipientsNumber">enter recipient\'s number</string>
+    <string name="enterMessage">enter your message here</string>
+    <string name="sendMessage">send message</string>
+    <string name="clear">Clear</string>
+</resources>
